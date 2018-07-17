@@ -1,2 +1,3 @@
 # Git-Testing
-Using repository for all tests and trials as I learn Git
+This repository serves no functional purpose. 
+It is solely an educational tool used to practice Git on a remote repository.
